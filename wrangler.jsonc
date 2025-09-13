@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "flashnote-messager",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "flashnote-messager-backend",
+      "database_id": "dcf5c03e-6a35-4f29-b8de-1d20a02ef680"
+    }
+  ]
+}
